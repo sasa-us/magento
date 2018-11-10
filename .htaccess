@@ -194,6 +194,7 @@
     #AddDefaultCharset UTF-8
 
 <IfModule mod_expires.c>
+Header always set X-Content-Type-Options nosniff    
 
 ############################################
 ## Add default Expires header
