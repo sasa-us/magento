@@ -1,0 +1,4 @@
+2018-11-10T18:05:40+00:00 ERR (3): Notice: Undefined index: xs  in /Users/dev/Desktop/LFZ/magento/app/code/core/Mage/ConfigurableSwatches/Helper/Productimg.php on line 145
+2018-11-10T18:05:40+00:00 ERR (3): Notice: Undefined index: xs  in /Users/dev/Desktop/LFZ/magento/app/code/core/Mage/ConfigurableSwatches/Helper/Productimg.php on line 151
+2018-11-10T18:05:40+00:00 ERR (3): Notice: Undefined index: s  in /Users/dev/Desktop/LFZ/magento/app/code/core/Mage/ConfigurableSwatches/Helper/Productimg.php on line 145
+2018-11-10T18:05:40+00:00 ERR (3): Notice: Undefined index: s  in /Users/dev/Desktop/LFZ/magento/app/code/core/Mage/ConfigurableSwatches/Helper/Productimg.php on line 151
